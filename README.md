@@ -1,4 +1,5 @@
 README.md
+12/02 - knorst bday!
 code .
 
 ls: aqui a gente pediu para ele mostrar oque tem na pasta (mi_yas_ayrton) para verificar se o README.md estava nela.
